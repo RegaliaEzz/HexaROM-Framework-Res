@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_min_width_minor">358.0dip</dimen>
+    <dimen name="config_prefDialogWidth">358.0dip</dimen>
+    <dimen name="keyguard_security_width">340.0dip</dimen>
+    <dimen name="tw_text_size_title_material_toolbar">22.0dip</dimen>
+    <dimen name="tw_text_size_subtitle_material_toolbar">15.0dip</dimen>
+    <dimen name="tw_text_size_menu_material_toolbar">17.0dip</dimen>
+    <dimen name="tw_dialog_title_text_size">23.0sp</dimen>
+    <dimen name="tw_dialog_body_text_size">17.0sp</dimen>
+    <dimen name="tw_dialog_body_text_size_option_menu">17.0sp</dimen>
+    <dimen name="tw_dialog_body_text_line_spacing_extra">4.0sp</dimen>
+    <dimen name="tw_dialog_button_text_size">18.0sp</dimen>
+    <dimen name="tw_dialog_button_text_size_for_three_button">17.0sp</dimen>
+    <dimen name="tw_dialog_button_padding_horizontal">18.0dip</dimen>
+    <dimen name="tw_dialog_button_padding_horizontal_for_three_button">15.0dip</dimen>
+    <dimen name="tw_dialog_button_inset_horizontal">4.0dip</dimen>
+    <dimen name="tw_searchview_suggestion_item_height">54.0dip</dimen>
+    <dimen name="tw_resolver_title_text_size">24.0dip</dimen>
+    <dimen name="tw_tab_text_size">16.0dip</dimen>
+</resources>

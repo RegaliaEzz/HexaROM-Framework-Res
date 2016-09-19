@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_min_width_major">424.0dip</dimen>
+    <dimen name="dialog_min_width_minor">334.0dip</dimen>
+    <dimen name="chooser_grid_padding">16.0dip</dimen>
+    <dimen name="tw_dialog_button_text_size">16.0sp</dimen>
+    <dimen name="tw_toast_padding_start">21.0dip</dimen>
+    <dimen name="tw_toast_padding_end">21.0dip</dimen>
+</resources>

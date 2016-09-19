@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="airbutton_drawable_list_item_height">121</integer>
+    <integer name="airbutton_string_list_item_height">69</integer>
+    <integer name="airbutton_combination_list_item_height">69</integer>
+    <integer name="multiwindow_floating_minimum_size_ratio">375</integer>
+    <integer name="multiwindow_defaultScaleFactor">600</integer>
+    <integer name="multiwindow_floating_maximum_size_ratio">900</integer>
+</resources>

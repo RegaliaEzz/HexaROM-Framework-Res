@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_min_width_major">406.0dip</dimen>
+    <dimen name="dialog_min_width_minor">320.0dip</dimen>
+    <dimen name="tw_dialog_button_minHeight">35.0dip</dimen>
+    <dimen name="tw_dialog_button_minWidth">40.0dip</dimen>
+    <dimen name="tw_dialog_button_text_size">15.0sp</dimen>
+    <dimen name="tw_dialog_button_padding_horizontal">15.0dip</dimen>
+    <dimen name="tw_dialog_button_padding_horizontal_for_three_button">12.0dip</dimen>
+    <dimen name="tw_toast_padding_start">32.0dip</dimen>
+    <dimen name="tw_toast_padding_end">32.0dip</dimen>
+    <dimen name="tw_inputmethod_switch_dialog_title_margin">16.0dip</dimen>
+    <dimen name="mdm_app_icon_size">48.0dip</dimen>
+</resources>

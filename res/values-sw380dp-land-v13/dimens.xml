@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_clock_top_margin">48.0dip</dimen>
+    <dimen name="tw_resolver_pagemode_toppanel_defaulticon_width">140.0dip</dimen>
+    <dimen name="tw_resolver_pagemode_toppanel_defaulttext_width">260.0dip</dimen>
+</resources>

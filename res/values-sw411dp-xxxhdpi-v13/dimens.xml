@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tw_clipboard_thumnail_image_height">113.0dip</dimen>
+    <dimen name="tw_clipboard_thumnail_image_width">113.0dip</dimen>
+    <dimen name="knox_app_icon_width">66.0dip</dimen>
+    <dimen name="knox_app_icon_height">66.0dip</dimen>
+    <dimen name="multiwindow_minimized_width">64.0dip</dimen>
+    <dimen name="multiwindow_minimized_height">64.0dip</dimen>
+    <dimen name="multiwindow_minimize_inner_icon_radius">27.0dip</dimen>
+    <dimen name="multiwindow_app_icon">57.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_buttons_height">31.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_padding">5.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_ripple_size">61.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_buttons_layout_margin">4.5dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_width">36.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_height">36.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_margin">8.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_press_width">31.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_press_height">31.0dip</dimen>
+    <dimen name="multiwindow_floating_menu_button_press_radius">30.0dip</dimen>
+    <dimen name="controller_btn_bg_left_margin">20.0dip</dimen>
+    <dimen name="controller_btn_bg_right_margin">20.0dip</dimen>
+    <dimen name="center_bar_guide_width">107.0dip</dimen>
+</resources>
