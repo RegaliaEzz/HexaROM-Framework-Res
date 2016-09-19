@@ -2592,4 +2592,5 @@ RETURN TO,"</string>
     <string name="storage_go_to_myfiles">Go to My Files</string>
     <string name="storage_sd_card_title">SD card</string>
     <string name="storage_sdcard_insert">SD card has been inserted.</string>
+	<string name="tw_ic_do_rebootrecovery">Reboot Recovery</string>
 </resources>
